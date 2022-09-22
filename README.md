@@ -1,4 +1,4 @@
-### Hi there 👋
+<img width="100%" src="https://obj-sg.thewiki.kr/data/eca780ec8381eba0ac20ed9484eba19ced95842e6a7067.jpg"/>
 
 <!--
 **Seochangh2/Seochangh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
