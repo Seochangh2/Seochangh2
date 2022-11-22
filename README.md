@@ -5,6 +5,10 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=changh2)]
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=changh2&color=dark)]
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=changh2&tag=hi)]
+
+
 <!--
 **Seochangh2/Seochangh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
