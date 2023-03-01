@@ -9,6 +9,7 @@
 
 - HTML, CSS(SCSS), JS(ES6)
 - React.js
+- React Native
 - Next.js
 - TypeScript
 
