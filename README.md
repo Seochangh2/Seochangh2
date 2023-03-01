@@ -1,26 +1,30 @@
+# 💁🏻 Front-End Developer
 
-<!--
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=changh2)]
+---
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=changh2&color=dark)]
+- 안녕하세요! **감내하며, 결국 만들어내는 개발자** 서창희입니다.
+- 어제보다 나은 오늘이 되도록 노력합니다.
+- 낯선 코드를 만나도 빠르게 이해하고 습득합니다.
+- 협업이 중요한 환경 속에서 ‘즐겁고 열심히’ 임하는 개발자를 꿈꿉니다.
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=changh2&tag=hi)]
+# 🛠  Stacks
 
-뱃지 , 컬러 ( 최신글 )  , 태그의 최신글
--->
+---
 
+## Front-End
 
-<!--
-**Seochangh2/Seochangh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- HTML, CSS(SCSS), JS(ES6)
+- React.js
+- Next.js
+- TypeScript
 
-Here are some ideas to get you started:
+## Collaboration & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- VS Code
+- Figma
+- Git, Github
+
+## State Management
+
+- Redux
+- Redux Toolkit
