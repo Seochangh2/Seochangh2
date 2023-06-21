@@ -21,5 +21,5 @@
 
 ## State Management
 
+- REST API
 - Redux
-- Redux Toolkit
