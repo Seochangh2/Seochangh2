@@ -7,19 +7,20 @@
 
 ## Front-End
 
-- HTML, CSS(SCSS), JS(ES6)
-- React.js
+- HTML, CSS, JavaScript
+- React
 - React Native
 - Next.js
 - TypeScript
-
-## Collaboration & Tools
-
-- VS Code
-- Figma
-- Git, Github
 
 ## State Management
 
 - REST API
 - Redux
+
+## ETC
+
+- Figma
+- Git
+- Netlify
+
